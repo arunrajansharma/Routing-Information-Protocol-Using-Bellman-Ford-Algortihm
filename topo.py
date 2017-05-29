@@ -3,7 +3,6 @@ Example topology of Quagga routers
 
 Edit : April 7, 2017
 Edit-Author : Arun Rajan, Stony Brook University
-Purpose: CSE 534, Assignment 3
 """
 
 import inspect
