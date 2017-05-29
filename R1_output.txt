@@ -1,0 +1,136 @@
+Starting Calculating Time from now :
+3.0734163101543E7 Nano Seconds
+H1  2
+R2  10
+R3  1
+R1 0
+
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :4.067167
+R4  6
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :5010.631081
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :15020.225064
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :25024.438291
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :35029.328059
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :45037.005171
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :55043.281727
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :65047.971662
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :75052.08474
+R4  6
+H2  8
+H1  2
+R2  10
+R3  1
+R1 0
+
+R4  R3
+H2  R4
+R2  R1
+H1  R1
+R3  R1
+R1 R1
+Time Elapsed :85061.827416
