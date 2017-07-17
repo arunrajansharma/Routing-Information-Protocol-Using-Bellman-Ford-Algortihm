@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# This is a modified code, taken from https://github.com/Quagga/quagga
+# I have made changes as per my requirement
 
 """
 Example network of Quagga routers

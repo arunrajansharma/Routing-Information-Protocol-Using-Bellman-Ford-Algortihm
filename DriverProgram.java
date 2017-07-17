@@ -1,3 +1,7 @@
+/* Author - Arun Rajan
+   Stony Brook University 
+*/
+
 import java.util.*;
 import java.net.Socket;
 import java.io.BufferedReader;
